@@ -1,9 +1,9 @@
 ---
 layout: page
-title: about
+title: À propos 
 permalink: /about/
 ---
 
-Bavaria ipsum dolor sit amet hoid a bissal wos gehd ollaweil nomoi. Wolln mei Weißwiaschd sowos, koa Habedehre schaugn san. Foidweg sog i hoggd Kaiwe, wuid Marterl großherzig ned woar.
+Une série de portraits de créatures, divinités, êtres mythiques mais aussi êtres ordinaires, venus d'un monde du futur plus ou moins proche, réensauvagé.
 
-Obandln singd Hendl spernzaln i hab an singan dringma aweng Hendl oamoi gwiss Fünferl. Xaver Auffisteign vasteh kumm geh i moan oiwei nia om auf’n Gipfe hoam obandeln.
+Une oeuvre conçue par Dialekti, réalisée de façon collective, et mise en forme par Dialekti et Elie. Créée lors de la saison 4 du Comité de Science Fiction. 

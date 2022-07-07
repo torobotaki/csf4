@@ -1,5 +1,7 @@
-# urban-theme
+# CSF Saison 4
 
-This theme is a Jekyll port of http://erosie.net/ with some modifications. It is designed for visual artists.
 
-Live-Demo: https://narkotyk.netlify.app
+Pour chaque fiche: https://jekyllrb.com/docs/posts/ 
+
+
+Pour chaque autre projet: https://jekyllrb.com/docs/pages/ 

@@ -1,23 +1,22 @@
 ---
 layout: post
-title:  AZ
-preview: images/az.jpg
+title:  Ielmer
+preview: images/ielmer.jpg
 ---
 
-![Portrait](/csf4/images/az.jpg)
+![Portrait](/csf4/images/ielmer.jpg)
 
-# AZ
-## Être surnaturel, repéré par Pierre
-Perçu·e·s comme divinité par certains, AZ a toujours existé sous forme de grenouille. Au début, il n'y avait qu'une seule, et cela, jusqu'à l'effondrement que les humains ont causé.  Mais, les champignons de la fin du monde ont permis une évolution en nuée de grenouilles. 
+# Ielmer terrasse le Bobar
+## Etre surnaturel, repéré par Elie 
+ielmer, divinité de la transversalité, fait appel à son compagnol pour
+effrayer le Babor et lui porter un coup fatal. Si la plupart des experts
+s’accordent à dire que ce conflit représente le grand effondrement,
+certaines sources portent à croire que le Babor représente également le patriarcat et toutes les formes de domination de l’époque.  
 
-Ces grenouilles, identiques, sont en réalité un seul être. Elles ont des comportements individuels, comme les fourmis d'une fourmilière, et aussi un comportement collectif. 
 
-AZ aime les champignons et est conscient·e·s de soi-même, ainsi que de sa condition éphémère. AZ vie en recul, près des champignons d'arbre, et a une claire tendance à l'équilibre. 
-
-
-<!--
+<!-- 
 ### Sa fiche de répérage 
 
-![Fiche](/images/az_f.jpg)
+![Fiche](/images/Ielmer.jpeg) -->
 
--->
+

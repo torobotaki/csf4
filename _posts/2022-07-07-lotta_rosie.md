@@ -1,18 +1,16 @@
 ---
 layout: post
-title:  AZ
-preview: images/az.jpg
+title:  Lotta Rosie
+preview: images/lottarosie.jpg
 ---
 
-![Portrait](/csf4/images/az.jpg)
+![Portrait](/csf4/images/lottarosie.jpg)
 
-# AZ
-## Être surnaturel, repéré par Pierre
-Perçu·e·s comme divinité par certains, AZ a toujours existé sous forme de grenouille. Au début, il n'y avait qu'une seule, et cela, jusqu'à l'effondrement que les humains ont causé.  Mais, les champignons de la fin du monde ont permis une évolution en nuée de grenouilles. 
+# Lotta Rosie
+## Être surnaturel, repéré par Laurent
+Lotta Rosie est simplement massive. Humaine, mais aussi élémentale, son corps brûlé et scarifié par le feu qu'elle génère est aussi impressionnant que repoussant. 
 
-Ces grenouilles, identiques, sont en réalité un seul être. Elles ont des comportements individuels, comme les fourmis d'une fourmilière, et aussi un comportement collectif. 
-
-AZ aime les champignons et est conscient·e·s de soi-même, ainsi que de sa condition éphémère. AZ vie en recul, près des champignons d'arbre, et a une claire tendance à l'équilibre. 
+Ambivalente, personne ne connaît ses motivations, mais elle semble consacrer sa vie  à errer en cherchant les réserves d'énergies fossiles  pour les détruire, ou ... les voler. Elle est armée et dangereuse, et elle ne passe jamais inaperçue avec son énorme 4x4 à moteur thermique. Son arrivée est une bénédiction et une calamité à la fois. Sa réputation est celle d'une personne juste mais effrayante. 
 
 
 <!--

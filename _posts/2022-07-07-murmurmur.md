@@ -1,18 +1,16 @@
 ---
 layout: post
-title:  AZ
-preview: images/az.jpg
+title:  MurMurMur
+preview: images/murmurmur.jpg
 ---
 
-![Portrait](/csf4/images/az.jpg)
+![Portrait](/csf4/images/murmurmur.jpg)
 
-# AZ
-## Être surnaturel, repéré par Pierre
-Perçu·e·s comme divinité par certains, AZ a toujours existé sous forme de grenouille. Au début, il n'y avait qu'une seule, et cela, jusqu'à l'effondrement que les humains ont causé.  Mais, les champignons de la fin du monde ont permis une évolution en nuée de grenouilles. 
+# MurMurMur
+## Être surnaturel ordinaire, repéré par G.M.M.
+Enfant des gipotypères pélagiques, iel grandit entre cinq étoiles de mer et cinq oiseaux adoptés. Chacune de ses têtes lui permet de vivre entre ciel, terre et mer. 
 
-Ces grenouilles, identiques, sont en réalité un seul être. Elles ont des comportements individuels, comme les fourmis d'une fourmilière, et aussi un comportement collectif. 
-
-AZ aime les champignons et est conscient·e·s de soi-même, ainsi que de sa condition éphémère. AZ vie en recul, près des champignons d'arbre, et a une claire tendance à l'équilibre. 
+De caractère relativement schizophrène, iel rencontre des difficultés face à la prise de décision. Solitaire, iel chemine de façon permanente sur sa dizaine de pattes. Iel porte sur lui, à tout moment, une pièce et un dé, pour faciliter ses décisions. 
 
 
 <!--

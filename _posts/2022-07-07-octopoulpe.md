@@ -1,18 +1,14 @@
 ---
 layout: post
-title:  AZ
-preview: images/az.jpg
+title:  Octopoulpe
+preview: images/octopoulpe.jpg
 ---
 
-![Portrait](/csf4/images/az.jpg)
+![Portrait](/csf4/images/octopoulpe.jpg)
 
-# AZ
-## Être surnaturel, repéré par Pierre
-Perçu·e·s comme divinité par certains, AZ a toujours existé sous forme de grenouille. Au début, il n'y avait qu'une seule, et cela, jusqu'à l'effondrement que les humains ont causé.  Mais, les champignons de la fin du monde ont permis une évolution en nuée de grenouilles. 
-
-Ces grenouilles, identiques, sont en réalité un seul être. Elles ont des comportements individuels, comme les fourmis d'une fourmilière, et aussi un comportement collectif. 
-
-AZ aime les champignons et est conscient·e·s de soi-même, ainsi que de sa condition éphémère. AZ vie en recul, près des champignons d'arbre, et a une claire tendance à l'équilibre. 
+# Octopoulpe
+## Être surnaturel, repéré par Sybille
+Octopoulpe est un énorme poulpe mutant bilingue, toujours accompagné de son ami Pito le petit poisson gargouilleur. De nature sociable et sympathique, Octopoulpe aime chanter des comptines à tous les êtres qu'il croise. Les ignorants en ont peur, mais les mélomanes aiment pousser la chansonnette avec lui. Adepte du franglais, il mélange maladroitement les deux langues dans ses chants.
 
 
 <!--

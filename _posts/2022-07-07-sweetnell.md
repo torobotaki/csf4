@@ -14,9 +14,7 @@ Né·e dans un arbre, iel vit dans un quartier de chimères populaire. Iel est c
 
 
 
-<!--
-### Sa fiche de répérage 
 
-![Fiche](/images/az_f.jpg)
+### La fiche de répérage de l'être
 
--->
+![Fiche](/csf4/images/fiche_sweetnell.jpeg)

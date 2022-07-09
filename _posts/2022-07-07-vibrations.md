@@ -14,9 +14,7 @@ Un vibraton n'a pas d'envies, mais c'est un part du vivant. Il flotte sur les vi
 
 L'être qui en traverse un, ressent les émotions qui ont donné naissance au vibraton.   
 
-<!--
-### Sa fiche de répérage 
 
-![Fiche](/images/az_f.jpg)
+### La fiche de répérage de l'être
 
--->
+![Fiche](/csf4/images/fiche_vibratons.jpeg)

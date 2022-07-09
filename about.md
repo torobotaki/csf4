@@ -8,6 +8,8 @@ permalink: /about/
 
 **Quelles divinités, héros, superhéroines, célébrités et autres êtres emblêmatiques pour ce monde futur ?**
 
+L'imaginaire collectif de chaque époque de l'Histoire de l'humanité correspond et incarne les valeurs, les idéaux et les connaissances des humains qui l'habite et nous informe sur les différentes visions du monde qui (co-)existaient. 
+
 
 Présentée comme de l'archéologie du futur, cette oeuvre est composée d' une série de représentations de créatures, divinités, êtres mythiques ou ordinaires, issus d'un futur réensauvagé.
 
@@ -26,3 +28,5 @@ Les oeuvres, réalisés au fusain, accompagnés par leur cartel résumant ont é
 
 ![Expo1](/csf4/images/accroche2.jpeg){:width="45%" }
 ![Expo2](/csf4/images/accroche1.png){:width="45%" style="float:right"}
+
+
